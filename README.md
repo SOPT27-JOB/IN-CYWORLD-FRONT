@@ -110,7 +110,7 @@ src
 #### [2] Clone the Repo
 
 ```sh
-git clone https://github.com/mnxmnz/IN-CYWORLD.git
+git clone https://github.com/SOPT27-JOB/IN-CYWORLD-FRONT.git
 ```
 
 #### [3] Install Packages
